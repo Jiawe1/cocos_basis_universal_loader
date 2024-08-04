@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/sence/main.fire",orientation:"",jsList:["assets/transforrn/basis_transcoder.6d44f.js","assets/transforrn/downloader.f99d7.js"],bundleVers:{internal:"d17e2",main:"6d813"}};
